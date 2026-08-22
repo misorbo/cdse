@@ -8,5 +8,5 @@ Questo sito nasce come raccolta di racconti e cronache per un mondo fantasy con 
 >Non é obbligatoria la lettura, io lo faccio per me, voi se volete leggere fate pure.
 
 
-
+![[cratere.webp]]
 
