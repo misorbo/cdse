@@ -1,0 +1,1 @@
+Tratto da *Divin Bestiario*, *Prof. Theodoric Vance* , *Alta biblioteca di Duren*
