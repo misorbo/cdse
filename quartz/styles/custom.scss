@@ -1,3 +1,73 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// ==========================================
+// PALETTE COLORI (Stile 3D Artist's Handbook)
+// Mantiene intatti tutti i componenti TTRPG
+// ==========================================
+
+:root,
+:root[saved-theme="light"] {
+  --light: #faf8f8 !important;        // Sfondo principale chiaro e pulito
+  --lightgray: #e5e5e5 !important;    // Bordi, tabelle e separatori
+  --gray: #b8b8b8 !important;         // Metadati e dettagli secondari
+  --darkgray: #4e4e4e !important;     // Testo principale di lettura
+  --dark: #2b2b2b !important;         // Titoli dei paragrafi
+  --secondary: #284b63 !important;    // Link, titolo del sito ed Explorer (Blu Petrolio)
+  --tertiary: #84a59d !important;     // Accento hover
+  --highlight: rgba(143, 159, 169, 0.15) !important;
+}
+
+:root[saved-theme="dark"] {
+  --light: #161618 !important;
+  --lightgray: #393639 !important;
+  --gray: #646464 !important;
+  --darkgray: #d4d4d4 !important;
+  --dark: #ebebec !important;
+  --secondary: #7b97aa !important;
+  --tertiary: #84a59d !important;
+  --highlight: rgba(143, 159, 169, 0.15) !important;
+}
+
+// Rimuove lo sfondo verdino delle barre laterali mantenendo la struttura
+body,
+.page,
+#quartz-body,
+.sidebar,
+.sidebar.left,
+.sidebar.right {
+  background-color: var(--light) !important;
+  background: var(--light) !important;
+}
+
+// Colora i titoli e il nome del sito con il blu scuro / nero
+h1, h2, h3, h4, h5, h6,
+.page-title,
+.page-title a {
+  color: var(--dark) !important;
+}
+
+// Colora il testo normale di lettura
+p, li, span, tr, td {
+  color: var(--darkgray);
+}
+
+// Colora i collegamenti dell'Explorer e dei wikilink
+a,
+a.internal,
+.explorer button,
+.explorer-item a {
+  color: var(--secondary);
+}
+
+a:hover,
+.explorer-item a:hover {
+  color: var(--tertiary);
+}
+
+// Rimuove la scritta crediti in basso e la data
+.content-meta,
+footer p {
+  display: none !important;
+}
