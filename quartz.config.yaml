@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: cdse.github.io
+  baseUrl: misorbo.github.io/cdse
   ignorePatterns:
     - private
     - templates
