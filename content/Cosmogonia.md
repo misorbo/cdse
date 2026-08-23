@@ -22,6 +22,7 @@ Durante il corso della Prima Era conflitti significativi non v’erano, l’abbo
 Certo, sovrani particolarmente presuntuosi e avidi vi erano, e qualche conflitto minore nasceva (ed era visto come una tragedia), ma tutto sommato erano regolamenti di conti che rientrano nelle norme di buon vicinato.
 
 Verso il calare di quell’epoca fatti strani accadevano sempre piú frequentemente in particolare a Nord, luci nella notte, improvvise apparizioni di monumenti (diventati poi luoghi di culto) dalla precisa geometria con triangoli ricorsivi, frattali e sezioni auree.
+
 ![[monumenti_falsi.webp]]
 
 Incapaci di comprendere quei fenomeni le Genti iniziarono a venerare quelle nuove divinità, portando loro preziosi doni ai monumenti che puntualmente venivano prelevati.  
