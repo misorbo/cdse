@@ -43,3 +43,4 @@ Se il tuo vicino ha piú cibo di te, per sopravvivere decidi di invaderlo per im
 Il tutto ha accentuato l'avidità dei sovrani di cui prima ed i conflitti sono diventati frequenti.  
 La Terra Seconda è diventata un mondo in cui occorre guadagnarsi, talvolta con la forza, il proprio posto, ed é qui che noi viviamo.
 
+La Guerra e il Cratere hanno modificato radicalmente il rapporto tra creature e le Genti. Alcune, volute dai Veri, convivevano pacificamente con i Popoli, nella Prima Terra, ma con la scarsità di cibo i rapporti si sono inaspriti e non sono rari attacchi da parte di creature primordiali. Come se non bastasse ne sono nate di nuove, maligne sin dal primo momento ed ostili. Il Cratere diventa luogo fertile per certe mutazioni e l’Università stessa da cui scrivo ha diverse squadre di sicurezza a proteggere i confini.
