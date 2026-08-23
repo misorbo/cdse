@@ -1,6 +1,6 @@
 
->[!quote] Detto Popolare
->Segui una Tricoda e troverai il guado.
+> *Segui una Tricoda e troverai il guado.*
+>-- Detto Popolare
 
 ![[tricoda.webp]]
 
